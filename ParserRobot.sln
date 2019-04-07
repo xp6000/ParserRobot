@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserRobot", "ParserRobot\ParserRobot.csproj", "{267F9EAE-57BC-466D-A5A2-AD2BEC0A6E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267F9EAE-57BC-466D-A5A2-AD2BEC0A6E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267F9EAE-57BC-466D-A5A2-AD2BEC0A6E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267F9EAE-57BC-466D-A5A2-AD2BEC0A6E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267F9EAE-57BC-466D-A5A2-AD2BEC0A6E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEE4BB0D-05E7-4665-98EC-8163AC4FBAE1}
+	EndGlobalSection
+EndGlobal
